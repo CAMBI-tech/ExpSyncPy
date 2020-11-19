@@ -1,0 +1,19 @@
+*.pyc
+*~
+.DS_Store
+.cache/
+.vscode/
+.tm_properties
+.mypy_cache/
+# Virtualenv
+venv/
+__pycache__/
+.cache/
+.idea
+.eggs/
+*.egg-info/
+.coverage
+htmlcov/
+bcipy.egg-info/
+build/
+dist/
