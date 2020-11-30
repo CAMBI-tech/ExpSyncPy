@@ -16,10 +16,8 @@ VERSION = '0.0.0'
 
 setup(
     name=NAME,
-    version=about['__version__'],
+    version=VERSION,
     description=DESCRIPTION,
-    long_description=long_description,
-    long_description_content_type='text/markdown',
     packages=find_packages(),
     include_package_data=True,
     license='',  # Possible: MIT ?
